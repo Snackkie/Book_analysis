@@ -1,6 +1,6 @@
 # Анализ книг в книжных магазинах.
-**Кратко с ходом работы данного проекта можно ознакомиться [здесь](https://github.com/Snackkie/Book_analysis/blob/main/book_analysis_description.pdf)**
-
+**Кратко с ходом работы данного проекта можно ознакомиться [здесь](https://github.com/Snackkie/Book_analysis/blob/main/book_analysis.pdf)**
+**Код данной работы представлен [здесь](https://github.com/Snackkie/Book_analysis/blob/main/book_analysis.ipynb)**
 В данном исследовании собраны данные из книг трех книжных магазинов("Читай-город", "Книжный лабиринт", "Молодая гвардия").
 
 Собирались они по следующим признакам:
@@ -26,7 +26,7 @@
 В завершении проводится визуализация наших данных с понижением размерности.
 
 
-Данные, собранные в ходе проекта, представлены [здесь](https://github.com/Snackkie/Book_analysis/blob/main/data.xlsx)
+Данные, собранные в ходе проекта, представлены [здесь](https://github.com/Snackkie/Book_analysis/blob/main/book_reviews.xlsx)
 
 
 
